@@ -1,0 +1,6 @@
+Needed to be installed: 
+
+pandas
+numpy 
+sklearn
+keras
